@@ -6,7 +6,7 @@
     <a href="https://github.com/atick-faisal/Expense-Tracker-Android/releases"><img src="https://img.shields.io/github/release/atick-faisal/Expense-Tracker-Android?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
     <a href="https://github.com/atick-faisal/Expense-Tracker-Android/issues"><img src="https://img.shields.io/github/issues/atick-faisal/Expense-Tracker-Android?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/atick-faisal/Expense-Tracker-Android/contributors"><img src="https://img.shields.io/github/contributors/atick-faisal/Expense-Tracker-Android?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
+</p> 
 
 Ever wished your wallet could talk? Well, now it can! 🗣️ This isn't just another expense tracker – it's your personal financial companion powered by artificial intelligence. Built with modern Android tech and a sprinkle of AI magic ✨, it turns those boring bank SMSs into meaningful insights about your spending habits.
 
